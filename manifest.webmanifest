@@ -1,0 +1,22 @@
+{
+    "name": "高中職落點分析網",
+    "short_name": "高中職落點分析網",
+    "id": "./",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#03173d",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icon100.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "icon100.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
