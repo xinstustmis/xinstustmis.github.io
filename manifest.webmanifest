@@ -9,14 +9,14 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icon100.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        },
-        {
-            "src": "icon100.png",
+            "src": "icon100_v192.png",
             "type": "image/png",
             "sizes": "192x192"
+        },
+        {
+            "src": "icon100_v512.png",
+            "type": "image/png",
+            "sizes": "512x512"
         }
     ]
 }

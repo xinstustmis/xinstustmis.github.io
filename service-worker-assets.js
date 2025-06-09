@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "KnFMPrgv",
+  "version": "e5CKoGnB",
   "assets": [
     {
       "hash": "sha256-Ej8SbbqnLZFC5EuoC5JvfxUKzestkSj334ZWgEPxK44=",
@@ -230,23 +230,19 @@ self.assetsManifest = {
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
-      "url": "icon-192.png"
+      "hash": "sha256-Q8443h3eaZTuKBPInbi8bBhC/v4UK6z65RFEhCZu0Ys=",
+      "url": "icon100_v192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
-      "url": "icon-512.png"
+      "hash": "sha256-Gv0qdCsyKlWFyD91HBfUqYj6hQc/A0QoCXfj5Ij0V9Y=",
+      "url": "icon100_v512.png"
     },
     {
-      "hash": "sha256-s9on0AsliFk2QvrxRnVH6QvBpXq7IVA2EVbDLXm78cI=",
-      "url": "icon100.png"
-    },
-    {
-      "hash": "sha256-WtjUI0HUVRg+5XaNDRvijgjKqcJSKzEWTi0dOWSGLO8=",
+      "hash": "sha256-ALr/zO04Wm+T0NRkvNFBEneTD3JpyDCFOQAScGF1SUs=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-JCxIgjQ7gQtT+9cJXQ45cwcsOczQB1P9mEaBQMZ0ln0=",
+      "hash": "sha256-998V3BR0uIK+TzmfkQAm5+syrvICeH+0+cigAibh0gs=",
       "url": "manifest.webmanifest"
     }
   ]
