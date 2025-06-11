@@ -64,6 +64,40 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+/* 漸層按鈕 */
+.btn-gradient-success {
+    background: linear-gradient(45deg, #28a745, #218838);
+    color: white;
+    border: none;
+    transition: background 0.3s ease;
+}
+
+    .btn-gradient-success:hover {
+        background: linear-gradient(45deg, #218838, #1e7e34);
+        color: white;
+    }
+
+.btn-gradient-primary {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+    color: white;
+    border: none;
+    transition: background 0.3s ease;
+}
+
+    .btn-gradient-primary:hover {
+        background: linear-gradient(45deg, #0056b3, #003f7f);
+        color: white;
+    }
+
+/* 卡片陰影提升 */
+.card.shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 0.075);
+}
+
+/* 留言人名加徽章 */
+.badge {
+    font-weight: 500;
+}
 
 .loading-progress {
     position: relative;
@@ -100,4 +134,57 @@ a, .btn-link {
 
 code {
     color: #c02d76;
+}
+/* 漸層按鈕 */
+.btn-gradient-primary {
+    background: linear-gradient(45deg, #4e9af1, #1e60d3);
+    border: none;
+    color: white;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+    .btn-gradient-primary:hover {
+        background: linear-gradient(45deg, #1e60d3, #4e9af1);
+        transform: scale(1.05);
+    }
+
+/* 卡片 hover 放大 */
+.card-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+    .card-hover:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0.5rem 1rem rgba(30, 96, 211, 0.3);
+    }
+
+/* 暗黑模式變數 */
+:root {
+    --bg-color: #fff;
+    --text-color: #000;
+    --card-bg: #fff;
+    --primary-color: #1e60d3;
+}
+
+.dark-mode {
+    --bg-color: #121212;
+    --text-color: #eee;
+    --card-bg: #1e1e1e;
+    --primary-color: #4e9af1;
+}
+
+body, .container, .card {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.card {
+    background-color: var(--card-bg);
+}
+
+/* 輸入框即時錯誤提示 */
+input:invalid, textarea:invalid {
+    border-color: #dc3545;
+    box-shadow: 0 0 5px rgba(220,53,69,0.5);
 }
