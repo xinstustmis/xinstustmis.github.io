@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "2wF1B7HS",
+  "version": "IzTTb96k",
   "assets": [
     {
       "hash": "sha256-mHsN2e7+XJxwGiphj78mx0hP/E9Syz9GssnsaWkHSpM=",
@@ -14,7 +14,7 @@ self.assetsManifest = {
       "url": "Landing2.png"
     },
     {
-      "hash": "sha256-JZtjA39cCDfwEgk5QPFhj5jWjcG4h38/7V6otCs1hOI=",
+      "hash": "sha256-NijktvS3EsH56Jj3Xy4QMZQkNoEsqJxmPtBTkn4IFi0=",
       "url": "_framework/BlazorApp2.wasm"
     },
     {
@@ -30,7 +30,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-vJHYQg0u99GW+gFgEVH0RaNCMJ/iwUe/v5ean8ewskM=",
+      "hash": "sha256-088v1BsLt6mFFfCNeDlMerq5pM0BactK5z/f26ilxGE=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -118,7 +118,7 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.Expressions.wasm"
     },
     {
-      "hash": "sha256-tgDNG5IE5HukjnFsKZydBTE+Mb2yaH0J/qkfdnb+qvk=",
+      "hash": "sha256-AFFKDLe2jWPtmeRa3bqMDDhloJM8S6hnHM9r5o/f3W4=",
       "url": "_framework/System.Linq.wasm"
     },
     {
@@ -138,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-8mrLMN5YhfUN13Y8vinM8ptr2HxhbqUqXtO72M2S6RY=",
+      "hash": "sha256-TMSRjLqQsYsLObWmQoBki+ebXThxo6S7yxzmjgBpins=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -154,7 +154,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-DqOAMLEMRNTcRzq6aF+s8B/8Q/y9yOFtBJmp/2Hayzk=",
+      "hash": "sha256-dmRbxgbdU1Gtr953ldfgnbDQSYcBZAaOO+gBPcjq8oY=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-gCDbQzxk1jUfXZan8vauyQ7L4fAjDguG3qOjUHk/568=",
+      "hash": "sha256-iGfkcVWLnqINaJ+/rWBvGfKymVXNhFjqqK9GEOd1vWc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-V0rygigaNNbuY4RJkqEIQfJhJGPIbCq4R3HTDpH1KY0=",
+      "hash": "sha256-vm/67Zt/hUc4ji9DkY0vErZTCkK319gesxv1SBzoUJs=",
       "url": "css/app.css"
     },
     {
@@ -242,7 +242,7 @@ self.assetsManifest = {
       "url": "icon100_v512.png"
     },
     {
-      "hash": "sha256-/0Gcrtv3cLPnWrURPGNERXdg/vwsskh7aQ+WQlYdnG4=",
+      "hash": "sha256-L8D4rIk1/PxwHdqLCWVSnRQqA7E7NWJ7l2WUaNSMQ8Q=",
       "url": "index.html"
     },
     {

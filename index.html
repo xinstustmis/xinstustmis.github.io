@@ -45,6 +45,24 @@
             }
         }
     </script>
+    <!-- importantdate頁面 -->
+    <script>
+        function requestNotificationPermission() {
+            if (!("Notification" in window)) {
+                alert("此瀏覽器不支援通知功能");
+                return;
+            }
+
+            Notification.requestPermission().then(function (permission) {
+                if (permission === "granted") {
+                    new Notification("✅ 通知已啟用，提醒事項將會出現在您的裝置上！");
+                } else {
+                    alert("您未授權通知功能。");
+                }
+            });
+        }
+    </script>
+
 
 </body>
 
