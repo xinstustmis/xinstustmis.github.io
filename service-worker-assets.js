@@ -1,20 +1,24 @@
 self.assetsManifest = {
-  "version": "3RRjH7Wd",
+  "version": "52bFUkfY",
   "assets": [
     {
-      "hash": "sha256-mHsN2e7+XJxwGiphj78mx0hP/E9Syz9GssnsaWkHSpM=",
+      "hash": "sha256-K6H605SwOEr3R3vgg5BLg/8rvobE7NZZsn9QX6fUtco=",
       "url": "BlazorApp2.styles.css"
     },
     {
-      "hash": "sha256-aoNNjB8LN+IEoN1e07J01+ialrTXgdlMvXU/qPS5VF0=",
+      "hash": "sha256-gz7iBOLb9UcopSNVAbfzYXjsIp3D/VV4HsHQ6vg+YNU=",
       "url": "Landing1.png"
     },
     {
-      "hash": "sha256-gz7iBOLb9UcopSNVAbfzYXjsIp3D/VV4HsHQ6vg+YNU=",
+      "hash": "sha256-aoNNjB8LN+IEoN1e07J01+ialrTXgdlMvXU/qPS5VF0=",
       "url": "Landing2.png"
     },
     {
-      "hash": "sha256-Acx0w8U7ZyLg2VnbSNYKl4CMlByzeMW8ljbtjnEyJX4=",
+      "hash": "sha256-fDg+ASLQbPstLcpCzjhGi4SUv/crnwaU27VgJQ/Plso=",
+      "url": "Landing3.png"
+    },
+    {
+      "hash": "sha256-j0895Pi5kaH2iCxl0Yktx8V/8KsY9Vkjosv1YqCew4I=",
       "url": "_framework/BlazorApp2.wasm"
     },
     {
@@ -174,7 +178,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-iIYlc3wYS40XGgy9HMJzOHF0FtI7tKp7UQl4clFU5Zw=",
+      "hash": "sha256-NK0hSHnJq8+8dEYeBNiMaTPl6Xvr/HoWvIg3sx2g+84=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -242,7 +246,7 @@ self.assetsManifest = {
       "url": "icon100_v512.png"
     },
     {
-      "hash": "sha256-L8D4rIk1/PxwHdqLCWVSnRQqA7E7NWJ7l2WUaNSMQ8Q=",
+      "hash": "sha256-ri86EOijrZXA2dWYnDp6FmqBGHrSdKhKrLukQv1w21I=",
       "url": "index.html"
     },
     {

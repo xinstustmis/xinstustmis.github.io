@@ -1,4 +1,4 @@
-/* Manifest version: 3RRjH7Wd */
+/* Manifest version: 52bFUkfY */
 // ⚠️ 提醒：若要正式部署 PWA，請先了解相關離線快取的注意事項。
 // 文件參考：https://aka.ms/blazor-offline-considerations
 
